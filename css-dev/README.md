@@ -14,7 +14,8 @@ The idea of this test is that you show us your skills in a simple project that s
 ## UI 
 We don’t care what framework you use, it could be plain html, react, angular, css, sass, less, etc. Choose the one that is easiest for you. 
 
-You will find attached to this a folder called assets. Inside you have an editable figma file, but if you don't have figma don’t worry, because you have the JPG for every size too. 
+You will find attached to this a folder called assets. 
+Inside you have an editable figma file (assets/editable.fig) , but if you don't have figma don’t worry, because you have the JPG (assets/page-desktop.jpg | tablet | mobile) for every size too. 
 
 
 **Important details:**
